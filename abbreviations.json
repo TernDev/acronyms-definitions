@@ -1181,7 +1181,7 @@
     "NG-AIME": "New Generation Aeronautical Information Management Environment) is a unique platform for digitizing aeronautical data, allowing users to manage safety-critical data and optimize processes. NG-AIME products are based on the AIXM 5.1 format, which is recommended by the European Organization for the Safety of Air Navigation (Eurocontrol), and the Federal Aviation Administration (FAA). Digital information with time and geographical representation brings the actual situation to the systems and users, e.g., closed runways and taxiways, work in progress areas, temporary routes, etc.",
     "NetRRR": "Network Record, Replay, Review system for ATM data recording and playback",
     "Nexus InfoSys": "Nexus Information System",
-    "OMNI SID": "\"In cases where no track guidance is provided, departure procedures are designed using the omnidirectional method. The omnidirectional departure normally allows departure in any direction.",
+    "OMNI SID": "In cases where no track guidance is provided, departure procedures are designed using the omnidirectional method. The omnidirectional departure normally allows departure in any direction.",
     "Observium": "an auto-discovering network monitoring platform supporting a wide range of hardware platforms and operating systems including Cisco, Windows, Linux, HP, Juniper, Dell, FreeBSD, F5, Brocade, Citrix Netscaler, NetApp and many more. Observium seeks to provide a powerful yet simple and intuitive interface to the health and status of your network",
     "Orion Creator": "The application in the Orion suite in which exercises are created.",
     "Orion Pilot": "The application in the Orion suite in which exercises are run.",
@@ -1234,6 +1234,7 @@
     "WSS": "The Workstation Service (WSS) provides access to runtime workstation data, as well as allowing for operations on it. The workstation data is stored in the Persisted Storage Node (PSN).",
     "SDPS": "The SDP subsystem provides surveillance data processing for data received from connected surveillance sensors.",
     "SMC": "The System Management Console (SMC) is the main tool for monitoring and managing the Polaris system. The following chapters describe how to manage the operation of the system using the SMC user interface.",
-    "Tatoo": "tatoo is a python library for creating input and reading output for/from ATS related software."
+    "Tatoo": "tatoo is a python library for creating input and reading output for/from ATS related software.",
+    "RAG": "Runway Arresting Gear - It is installed on the runway for the purpose of safely arresting an aircraft in the event of an aborted takeoff or an emergency landing."
   }
 }
