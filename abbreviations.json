@@ -1125,7 +1125,9 @@
     "YES": "Yes (affirmative) (to be used in AFS as a procedure signal)",
     "YR": "Your",
     "Z": "Coordinated Universal Time (in meteorological messages)",
-    "PEBKAC": "Problem Exists Between Keyboard And Chair"
+    "PEBKAC": "Problem Exists Between Keyboard And Chair",
+    "YOOYED": "You're out of your element, Donny.",
+    "wdym": "What do you mean"
   },
   "definitions": {
     "ADS-B": "Automatic dependent surveillance - broadcast, surveillance data built on GPS reports from flights carrying appropriate equipment.",
